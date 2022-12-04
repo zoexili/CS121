@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="COS 126">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.lift/stdlib.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.lift/introcs.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.lift/algs4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.lift/apiguardian-api-1.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.lift/checkstyle-lift.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.lift/junit-jupiter-api-5.4.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.lift/junit-jupiter-engine-5.4.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.lift/junit-jupiter-params-5.4.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.lift/junit-platform-commons-1.4.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.lift/junit-platform-engine-1.4.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.lift/opentest4j-1.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="https://introcs.cs.princeton.edu/java/stdlib/javadoc" />
+      <root url="https://introcs.cs.princeton.edu/java/code/javadoc" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/.lift/stdlib.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.lift/introcs.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.lift/algs4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.lift/checkstyle-lift.jar!/" />
+    </SOURCES>
+  </library>
+</component>

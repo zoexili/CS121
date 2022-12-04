@@ -1,0 +1,4 @@
+apple banana carrot
+APPLE
+apple
+carrot
